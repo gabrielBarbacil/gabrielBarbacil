@@ -10,7 +10,7 @@
 - 🔐 Passionate about **Offensive Security, Pentesting, CTF challenges and Red Team**  
 - 🛠️ Skilled in **Linux & Windows administration, privilege escalation**  
 - 📚 Documenting every solution in **Obsidian** to build reusable guides  
-- 🌍 Fluent in **Spanish and Italian, and techincal English**, adapting to technical and professional contexts  
+- 🌍 Fluent in **Spanish and Italian, and technical English**, adapting to technical and professional contexts  
 
 ---
 
