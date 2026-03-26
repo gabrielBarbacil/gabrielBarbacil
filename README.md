@@ -5,11 +5,10 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Preparing for a role in Cybersecurity
 - 📍 Based in **Italy**
-- 🔐 Passionate about **Offensive Security, Pentesting, CTF challenges and Red Team**  
-- 🛠️ Skilled in **Linux & Windows administration, privilege escalation**  
-- 📚 Documenting every solution in **Obsidian** to build reusable guides  
+- 🔐 Focused on Offensive Security, Active Directory attacks, privilege escalation and reproducible workflows.  
+- 🛠️ I build scripts, playbooks and documentation that make pentesting faster, clearer and more reliable.  
+- 📚 Currently developing a complete portfolio of 30+ machines with professional-grade writeups. 
 - 🌍 Fluent in **Spanish and Italian, and technical English**, adapting to technical and professional contexts  
 
 ---
@@ -19,16 +18,31 @@
 - **Pentesting Tools:** Burp Suite, Hashcat, John the Ripper, Stegohide, Gobuster, Hydra, etc.
 - **Scripting & Automation:** Bash, Python  
 - **Networking:** SSH, socat, port forwarding  
-- **Knowledge Management:** Obsidian  
+- **Knowledge Management:** Obsidian (methodology-driven documentation)
 
 ---
 
-## 🎓 Education & Training
+## 🎓 Certifications & Training
 - ✅ **CompTIA Security+** – Obtained  
 - 🔜 **CompTIA Pentest+** – In preparation  
 - 🏅 **TryHackMe Pathways Completed:**  
   - Web Fundamentals  
-  - Jr Penetration Tester 
+  - Jr Penetration Tester
+ 
+---
+
+## 🚀 What I'm Working On
+- Building a professional pentesting portfolio (TryHackMe & labs)  
+- Developing PowerShell and Bash scripts for automation  
+- Strengthening Active Directory attack paths & Red Team methodology
+
+---
+
+## 📂 Featured Projects (coming soon)
+- Pentesting Portfolio (30 curated machines)  
+- PowerShell Pentesting Toolkit  
+- Red Team Labs (AD, privesc, lateral movement)  
+- Automation Toolkit (recon, enum, reporting)
 
 ---
 
@@ -36,7 +50,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielbarbacil/) 
 - 📧 Email: gbarbacil91@gmail.com 
   
-
 ---
 
 ## ⚡ Fun fact
