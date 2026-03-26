@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel
 
-✨ **Cybersecurity Student | Pentesting & Red Team Enthusiast**
+### Junior Penetration Tester & Red Team Trainee
 
 ---
 
