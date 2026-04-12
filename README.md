@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel
 
-### Junior Penetration Tester & Red Team Trainee
+### Junior Penetration Tester
 
 ---
 
