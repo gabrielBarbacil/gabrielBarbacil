@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 📍 Based in **Italy**
-- 🔐 Focused on Offensive Security, Active Directory attacks, privilege escalation and reproducible workflows.  
+- 🔐 Focused on Offensive Security and Red Team.  
 - 🛠️ I build scripts, playbooks and documentation that make pentesting faster, clearer and more reliable.  
 - 📚 Currently developing a complete portfolio of 30+ machines with professional-grade writeups. 
 - 🌍 Fluent in **Spanish and Italian, and technical English**, adapting to technical and professional contexts  
@@ -18,13 +18,13 @@
 - **Pentesting Tools:** Burp Suite, Hashcat, John the Ripper, Stegohide, Gobuster, Hydra, etc.
 - **Scripting & Automation:** Bash, Python  
 - **Networking:** SSH, socat, port forwarding  
-- **Knowledge Management:** Obsidian (methodology-driven documentation)
+- **Reporting:** Obsidian (methodology-driven documentation), Dradis
 
 ---
 
 ## 🎓 Certifications & Training
-- ✅ **CompTIA Security+** – Obtained  
-- 🔜 **CompTIA Pentest+** – In preparation  
+- ✅ **CompTIA Security+ SY0-701** – Verification ID DQN3FV25YBR41N5M  
+- 🔜 **CompTIA Pentest+ PT0-003** – Verification ID f581c75a631e408fb7ebe92d8b5de270
 - 🏅 **TryHackMe Pathways Completed:**  
   - Web Fundamentals  
   - Jr Penetration Tester
